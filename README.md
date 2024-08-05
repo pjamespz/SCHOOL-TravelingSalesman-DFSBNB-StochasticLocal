@@ -11,4 +11,4 @@
 - The least-variant location on the path is determined with some quick preprocessing.
 - Then, this point is used as a 'cycle' point for the algorithm to rapidly test other nodes.
 - Since we know we stand to lose the least, on average, by cycling through this point, we are free to test other local changes that have far more to gain.
-- Out of approximately 40 teams, this approach performed second best in the cohort, earning recognition and extra credit.
+- Out of approximately 40 teams, this approach performed second best in the cohort on provided test data, earning recognition and extra credit.
